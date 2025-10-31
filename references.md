@@ -1,2 +1,3 @@
-this should conflict
+# References
 
+* octocat 1 😈
